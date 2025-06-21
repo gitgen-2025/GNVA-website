@@ -1,4 +1,4 @@
-# GNVA Website Scaffold
+# GNVA Website
 
 This is the official frontend for GNVA™ – a global, fee-less remittance platform.
 
